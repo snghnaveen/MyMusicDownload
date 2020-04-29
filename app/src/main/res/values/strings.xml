@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Music Download</string>
+    <string name="artist_name">Artist Name (Optional)</string>
+    <string name="song_name">Song Name</string>
+    <string name="search">🔎</string>
+    <string name="size">*</string>
+    <string name="xyz_preference">xyz_preference</string>
+    <string name="xyz_resp">xyz_resp</string>
+    <string name="thumbnail">thumbnail</string>
+</resources>
